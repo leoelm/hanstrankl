@@ -58,3 +58,11 @@ body, html {
 #timer p {
     color: white;
 }
+
+@media only screen and (max-device-width: 480px) {
+    .overlay p {
+        color: white; 
+        font-size: 100%; 
+        text-shadow: 2px 2px 4px grey; 
+    }
+}
