@@ -27,7 +27,7 @@ body, html {
     width: 20%;
 }
 
-p {
+.overlay p {
     color: white; 
     font-size: 500%; 
     text-shadow: 2px 2px 4px grey; 
