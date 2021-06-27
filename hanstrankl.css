@@ -62,7 +62,7 @@ body, html {
 @media only screen and (max-device-width: 1000px) {
     .overlay p {
         color: white; 
-        font-size: 100%; 
+        font-size: 75%; 
         text-shadow: 2px 2px 4px grey; 
     }
 }
